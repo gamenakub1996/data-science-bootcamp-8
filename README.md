@@ -16,3 +16,5 @@ I learn a lot of stuff related to data science skills. This bootcamp has 10 spri
 - Pythong programming
 - Essential Python for Data Analyst
 - Dashboard
+
+You can find my on LinkedIn https://www.linkedin.com/in/phatcharakorn-sawanon-62b7b1187/
